@@ -8,9 +8,9 @@
 
 ## O que eu faço agora
 
-- Construindo o **[Dogen](https://github.com/MiguelReis944/Dogen)**, um assistente virtual local de baixo custo — foco em rodar bem sem depender de infraestrutura cara.
-- Trabalhando no **Paragon**, uma plataforma de publicação de projetos de robótica com inventário de peças e busca por compatibilidade — TCC em Next.js/Bun/TypeScript/PostgreSQL.
 - Estudando arquitetura de backend, full-text search e design de API.
+- Trabalhando no **Paragon**, uma plataforma de publicação de projetos de robótica com inventário de peças e busca por compatibilidade — TCC em Next.js/Bun/TypeScript/PostgreSQL.
+- Construindo o **[Dogen](https://github.com/MiguelReis944/Dogen)**, um assistente virtual local de baixo custo — foco em rodar bem sem depender de infraestrutura cara.
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
