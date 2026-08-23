@@ -1,6 +1,6 @@
 # Miguel Reis
 **Desenvolvedor de software — automação, assistentes virtuais e sistemas web**
-<img align="right" width="150" src="https://static.vecteezy.com/system/resources/previews/027/708/903/non_2x/golden-crown-cartoon-style-drawing-free-png.png"/>
+<img align="right" width="150" src="coroa.png" style="pointer-events: none;" draggable="false" alt="Coroa"/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-reis-dos-santos/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.reis944/)
