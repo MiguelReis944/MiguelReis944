@@ -24,6 +24,6 @@
 ## Estatísticas
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=MiguelReis944&rank_icon=github&custom_title=Estatísticas&show_icons=true&include_all_commits=true&theme=dracula" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MiguelReis944&langs_count=4&theme=dracula" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=MiguelReis944&rank_icon=github&custom_title=Estatísticas&show_icons=true&include_all_commits=true&theme=dracula" height="190" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MiguelReis944&langs_count=4&theme=dracula" height="190" />
 </div>
