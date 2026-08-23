@@ -1,16 +1,30 @@
-## Hi there 👋
+# Miguel Reis
+**Desenvolvedor de software — automação, assistentes virtuais e sistemas web**
+<img align="right" width="150" src="https://static.vecteezy.com/system/resources/previews/027/708/903/non_2x/golden-crown-cartoon-style-drawing-free-png.png"/>
 
-<!--
-**MiguelReis944/MiguelReis944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-reis-dos-santos/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.reis944/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelreisdossantos771@gmail.com)
+<a href="https://discord.com/users/923984030695841852" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-Here are some ideas to get you started:
+## O que eu faço agora
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Construindo o **[Dogen](https://github.com/MiguelReis944/Dogen)**, um assistente virtual local de baixo custo — foco em rodar bem sem depender de infraestrutura cara.
+- Trabalhando no **Paragon**, uma plataforma de publicação de projetos de robótica com inventário de peças e busca por compatibilidade — TCC em Next.js/Bun/TypeScript/PostgreSQL.
+- Estudando arquitetura de backend, full-text search e design de API.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## Estatísticas
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=MiguelReis944&rank_icon=github&custom_title=Estatísticas&show_icons=true&include_all_commits=true&theme=dracula" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MiguelReis944&langs_count=4&theme=dracula" height="165" />
+</div>
