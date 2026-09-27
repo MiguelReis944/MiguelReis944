@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.reis944/)
 <a href="https://discord.com/users/923984030695841852" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-Construo **APIs, sistemas back-end e ferramentas para agentes de IA**, com interesse em arquitetura de software, segurança e infraestrutura local. Estou concluindo **Desenvolvimento de Sistemas na ETEC Albert Einstein** e buscando oportunidades de estágio/júnior em engenharia de software e back-end.
+Construo **APIs, sistemas back-end e ferramentas para agentes de IA**, com interesse em arquitetura de software, segurança e infraestrutura local.
 
 ## O que estou construindo
 
