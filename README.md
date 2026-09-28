@@ -38,12 +38,6 @@ Construo **APIs, sistemas back-end e ferramentas para agentes de IA**, com inter
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Atualmente estudando
-
-- Arquitetura de software e design de APIs.
-- Inglês, com foco em conversação.
-- Segurança de aplicações e infraestrutura para agentes de IA.
-
 ## Estatísticas
 
 <div align="center">
