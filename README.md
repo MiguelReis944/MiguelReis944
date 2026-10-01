@@ -14,12 +14,12 @@ Construo **APIs, sistemas back-end e ferramentas para agentes de IA**, com inter
 
 - **Paragon** — TCC em equipe: plataforma para publicação de projetos maker/robótica com inventário de peças e cálculo de compatibilidade. Atuo principalmente em **back-end e banco de dados**, usando **Next.js, Bun, TypeScript, PostgreSQL e Docker**.
 - **[modelo-de-harness](https://github.com/MiguelReis944/modelo-de-harness)** — template open source do meu ambiente de desenvolvimento agêntico, com catálogo de skills com procedência auditada, subagentes, hooks, MCPs e um vault de conhecimento.
-
+- **[Dogen](https://github.com/MiguelReis944/Dogen)** — coach de inglês conversacional offline com **Whisper, Ollama e Coqui TTS**, processando voz e IA localmente.
+  
 ## Outros projetos
 
 - **[Virgil](https://github.com/MiguelReis944/Virgil)** — gateway local para agentes de IA, com guardrails de custo/tokens, detecção de chamadas e erros repetidos, eventos em SQLite e redaction antes da exportação de telemetria. Feito em **Go**.
 - **[may-i](https://github.com/MiguelReis944/may-i)** — serviço de aprovação humana via WhatsApp para automações e agentes; usa HMAC, idempotência e fluxo fail-closed.
-- **[Dogen](https://github.com/MiguelReis944/Dogen)** — coach de inglês conversacional offline com **Whisper, Ollama e Coqui TTS**, processando voz e IA localmente.
 - **[Anotaqui](https://github.com/MiguelReis944/Anotaqui)** — SPA client-side para organização da rotina escolar, feita em JavaScript e `localStorage`.
 - **[Media-Pile](https://github.com/MiguelReis944/Media-Pile)** — diário de consumo de mídia com backend em **Node.js, Express e MySQL**.
 
